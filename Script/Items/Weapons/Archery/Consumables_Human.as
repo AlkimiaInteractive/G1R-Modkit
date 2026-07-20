@@ -1,0 +1,78 @@
+UCLASS()
+class UConsumablesData_Human_Bow : UConsumablesData
+{
+    FStanceMapMontage Item_Potion;
+    default Item_Potion.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Bow/Consumables/N/A_Man_Bow_N_Consume_Potions_Montage.A_Man_Bow_N_Consume_Potions_Montage'";
+    default Item_Potion.m_StanceMap.FindOrAdd(EStance::Crouching) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Bow/Consumables/STL/A_Man_Bow_STL_Consume_Potions_Montage.A_Man_Bow_STL_Consume_Potions_Montage'";
+	default m_Consumables.FindOrAdd(GameplayTag::Item_Potion) = Item_Potion;
+
+    FStanceMapMontage Item_Drink;
+    default Item_Drink.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Bow/Consumables/N/A_Man_Bow_N_Consume_Drink_Montage.A_Man_Bow_N_Consume_Drink_Montage'";
+    default Item_Drink.m_StanceMap.FindOrAdd(EStance::Crouching) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Bow/Consumables/STL/A_Man_Bow_STL_Consume_Drink_Montage.A_Man_Bow_STL_Consume_Drink_Montage'";
+	default m_Consumables.FindOrAdd(GameplayTag::Item_Drink) = Item_Drink;
+
+    FStanceMapMontage Item_Food;
+    default Item_Food.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Bow/Consumables/N/A_Man_Bow_N_Consume_Food_Montage.A_Man_Bow_N_Consume_Food_Montage'";
+    default Item_Food.m_StanceMap.FindOrAdd(EStance::Crouching) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Bow/Consumables/STL/A_Man_Bow_STL_Consume_Food_Montage.A_Man_Bow_STL_Consume_Food_Montage'";
+    default m_Consumables.FindOrAdd(GameplayTag::Item_Food) = Item_Food;
+    
+    FStanceMapMontage Item_Herb;
+    default Item_Herb.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Bow/Consumables/N/A_Man_Bow_N_Consume_Herbs_Montage.A_Man_Bow_N_Consume_Herbs_Montage'";
+    default Item_Herb.m_StanceMap.FindOrAdd(EStance::Crouching) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Bow/Consumables/STL/A_Man_Bow_STL_Consume_Herbs_Montage.A_Man_Bow_STL_Consume_Herbs_Montage'";
+	default m_Consumables.FindOrAdd(GameplayTag::Item_Herb) = Item_Herb;
+
+    FStanceMapMontage Item_Drug;
+    default Item_Drug.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Bow/Consumables/N/Man_Bow_Smoke_R_Montage.Man_Bow_Smoke_R_Montage'";
+    default Item_Drug.m_StanceMap.FindOrAdd(EStance::Crouching) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Bow/Consumables/STL/Man_Bow_STL_Smoke_Montage.Man_Bow_STL_Smoke_Montage'";
+	default m_Consumables.FindOrAdd(GameplayTag::Item_Drug) = Item_Drug;
+
+    FStanceMapMontage Item_Recipe;
+    default Item_Recipe.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Living/Read/LearnRecipe/Man_LearnRecipe_Montage.Man_LearnRecipe_Montage'";
+	default m_Consumables.FindOrAdd(GameplayTag::Item_Recipe) = Item_Recipe;
+    default m_Consumables.FindOrAdd(GameplayTag::Item_Recipe_Forge) = Item_Recipe;
+    default m_Consumables.FindOrAdd(GameplayTag::Item_Recipe_Inscription) = Item_Recipe;
+    default m_Consumables.FindOrAdd(GameplayTag::Item_Recipe_Alchemy) = Item_Recipe;
+    default m_Consumables.FindOrAdd(GameplayTag::Item_Recipe_Cooking) = Item_Recipe;
+
+    default m_Puke.m_StanceMap.FindOrAdd(EStance::Standing) = n"/Script/Engine.AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Bow/Consumables/N/Man_Bow_N_Relax_Vomit_Montage.Man_Bow_N_Relax_Vomit_Montage'";
+}
+
+UCLASS()
+class UConsumablesData_Human_Crossbow : UConsumablesData
+{
+    FStanceMapMontage Item_Potion;
+    default Item_Potion.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Crossbow/Consumables/N/A_Man_Crossbow_N_Consume_Potions_Montage.A_Man_Crossbow_N_Consume_Potions_Montage'";
+    default Item_Potion.m_StanceMap.FindOrAdd(EStance::Crouching) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Crossbow/Consumables/STL/A_Man_Crossbow_STL_Consume_Potions_Montage.A_Man_Crossbow_STL_Consume_Potions_Montage'";
+	default m_Consumables.FindOrAdd(GameplayTag::Item_Potion) = Item_Potion;
+
+    FStanceMapMontage Item_Drink;
+    default Item_Drink.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Crossbow/Consumables/N/A_Man_Crossbow_N_Consume_Drink_Montage.A_Man_Crossbow_N_Consume_Drink_Montage'";
+    default Item_Drink.m_StanceMap.FindOrAdd(EStance::Crouching) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Crossbow/Consumables/STL/A_Man_Crossbow_STL_Consume_Drink_Montage.A_Man_Crossbow_STL_Consume_Drink_Montage'";
+	default m_Consumables.FindOrAdd(GameplayTag::Item_Drink) = Item_Drink;
+
+    FStanceMapMontage Item_Food;
+    default Item_Food.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Crossbow/Consumables/N/A_Man_Crossbow_N_Consume_Food_Montage.A_Man_Crossbow_N_Consume_Food_Montage'";
+    default Item_Food.m_StanceMap.FindOrAdd(EStance::Crouching) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Crossbow/Consumables/STL/A_Man_Crossbow_STL_Consume_Food_Montage.A_Man_Crossbow_STL_Consume_Food_Montage'";
+    default m_Consumables.FindOrAdd(GameplayTag::Item_Food) = Item_Food;
+    
+    FStanceMapMontage Item_Herb;
+    default Item_Herb.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Crossbow/Consumables/N/A_Man_Crossbow_N_Consume_Herbs_Montage.A_Man_Crossbow_N_Consume_Herbs_Montage'";
+    default Item_Herb.m_StanceMap.FindOrAdd(EStance::Crouching) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Crossbow/Consumables/STL/A_Man_Crossbow_STL_Consume_Herbs_Montage.A_Man_Crossbow_STL_Consume_Herbs_Montage'";
+	default m_Consumables.FindOrAdd(GameplayTag::Item_Herb) = Item_Herb;
+
+    FStanceMapMontage Item_Drug;
+    default Item_Drug.m_StanceMap.FindOrAdd(EStance::Standing) = n"/Script/Engine.AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Crossbow/Consumables/N/Man_Crossbow_N_Smoke_L_Montage.Man_Crossbow_N_Smoke_L_Montage'";
+    default Item_Drug.m_StanceMap.FindOrAdd(EStance::Crouching) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Crossbow/Consumables/STL/Man_Crossbow_STL_Smoke_Montage.Man_Crossbow_STL_Smoke_Montage'";
+	default m_Consumables.FindOrAdd(GameplayTag::Item_Drug) = Item_Drug;
+
+    FStanceMapMontage Item_Recipe;
+    default Item_Recipe.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Living/Read/LearnRecipe/Man_LearnRecipe_Montage.Man_LearnRecipe_Montage'";
+	default m_Consumables.FindOrAdd(GameplayTag::Item_Recipe) = Item_Recipe;
+    default m_Consumables.FindOrAdd(GameplayTag::Item_Recipe_Forge) = Item_Recipe;
+    default m_Consumables.FindOrAdd(GameplayTag::Item_Recipe_Inscription) = Item_Recipe;
+    default m_Consumables.FindOrAdd(GameplayTag::Item_Recipe_Alchemy) = Item_Recipe;
+    default m_Consumables.FindOrAdd(GameplayTag::Item_Recipe_Cooking) = Item_Recipe;
+
+    default m_Puke.m_StanceMap.FindOrAdd(EStance::Standing) = n"/Script/Engine.AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Crossbow/Consumables/N/Man_Crossbow_N_Vomit_Montage.Man_Crossbow_N_Vomit_Montage'";
+
+}

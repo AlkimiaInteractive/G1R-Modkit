@@ -1,0 +1,7 @@
+{
+	"name": "Example-InteractionSpots",
+	"title": "Example: Interaction Spots",
+	"author": "Alkimia Interactive",
+	"description": "Adds a new InteractionSpot (Freepoint) into the world via an InteractionSpots.json file.",
+	"modVersion": "1.0.0"
+}

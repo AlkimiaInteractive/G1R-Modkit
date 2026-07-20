@@ -1,0 +1,36 @@
+class USpellConfigurationContainer_Rune_FireBall_Milten_Sleeper : USpellConfigurationContainer_Rune_FireBall
+{
+    default m_SpellConfigClass = UProjectileSpellConfig_FireBall_MiltenSleeper::StaticClass();
+    // default m_SpellTag = GameplayTag::Spell_BallLightning;
+    default m_SpellTag = GameplayTag::Item_Weapon_Rune_FireBall;
+	default m_AnimatorDirectorClass = USpellCastAnimationRechargeableDirector::StaticClass();
+
+    default m_SuperArmorEffect = UGE_IncreaseSuperArmor::StaticClass();
+	default m_SuperArmorResistanceMultiplier = 3.0f;
+
+    default m_SetStateLockMovementOnCast = true;
+    default m_SetStateLockMovementOnSpell = true;
+}
+
+class USpellActionKeywords_FireBall_MiltenSleeper : USpellActionKeywords
+{
+    // default m_ActionTag = GameplayTag::Spell_BallLightning;
+    default m_ActionTag = GameplayTag::Spell_Fireball;
+
+    default m_Keywords.AddTag(GameplayTag::AISpellKeywords_Usage_Damage);
+	// default m_Keywords.AddTag(GameplayTag::AISpellKeywords_Usage_Control);
+	default m_Keywords.AddTag(GameplayTag::AISpellKeywords_Damage_Magic);
+	default m_Keywords.AddTag(GameplayTag::AISpellKeywords_Casting_Charged);
+	// default m_Keywords.AddTag(GameplayTag::AISpellKeywords_Effect_Paralize);
+	default m_Keywords.AddTag(GameplayTag::AISpellKeywords_ProjectileSpeed_Slow);
+
+    default m_OnEquipActionEffect = UGE_EquipAbilitiesWhen_RuneEquip_FireBall_MiltenSleeper::StaticClass();
+    
+}
+
+class UGE_EquipAbilitiesWhen_RuneEquip_FireBall_MiltenSleeper : UGE_EquipAbilitiesWhen_RuneEquip_WithCrosshair
+{
+    //default AddAbilityWithSpellConfiguration(USpellConfigurationContainer_Rune_BallLightning::StaticClass(), UGA_CastSpell_RechargeableWithoutTransitions::StaticClass(), EAbilityInputID::Attack );
+    default AddAbility(UGA_CastSpell_FireBall_MiltenSleeper::StaticClass(), EAbilityInputID::Attack );
+    default AddAbility(UGA_Spell_FireBall_MiltenSleeper::StaticClass());   
+}

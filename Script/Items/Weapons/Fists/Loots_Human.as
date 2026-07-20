@@ -1,0 +1,50 @@
+UCLASS()
+class ULootsData_Human_Fists_Un : UPicksData
+{
+    FStanceMapMontage LootUp;
+    default LootUp.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Fist/Loot/Untrained/A_Man_Fists_Un_Loot_Montage.A_Man_Fists_Un_Loot_Montage'";
+    
+	FStanceMapMontage LootFront;
+    default LootFront.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Fist/Loot/Untrained/A_Man_Fists_Un_Loot_Montage.A_Man_Fists_Un_Loot_Montage'";
+   
+    FStanceMapMontage LootDown;
+    default LootDown.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Fist/Loot/Untrained/A_Man_Fists_Un_Loot_Montage.A_Man_Fists_Un_Loot_Montage'";
+
+	default m_MontagesMap.FindOrAdd(n"LootUp", LootUp);
+    default m_MontagesMap.FindOrAdd(n"LootFront", LootFront);
+    default m_MontagesMap.FindOrAdd(n"LootDown", LootDown);
+}
+
+UCLASS()
+class ULootsData_Human_Fists_Tr : UPicksData
+{
+    FStanceMapMontage LootUp;
+    default LootUp.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Fist/Loot/Trained/A_Man_Fists_Tr_Loot_Montage.A_Man_Fists_Tr_Loot_Montage'";
+    
+	FStanceMapMontage LootFront;
+    default LootFront.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Fist/Loot/Trained/A_Man_Fists_Tr_Loot_Montage.A_Man_Fists_Tr_Loot_Montage'";
+   
+    FStanceMapMontage LootDown;
+    default LootDown.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Fist/Loot/Trained/A_Man_Fists_Tr_Loot_Montage.A_Man_Fists_Tr_Loot_Montage'";
+
+	default m_MontagesMap.FindOrAdd(n"LootUp", LootUp);
+    default m_MontagesMap.FindOrAdd(n"LootFront", LootFront);
+    default m_MontagesMap.FindOrAdd(n"LootDown", LootDown);
+}
+
+UCLASS()
+class ULootsData_Human_Fists_Ma : UPicksData
+{
+    FStanceMapMontage LootUp;
+    default LootUp.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Fist/Loot/Master/A_Man_Fists_Ma_Loot_Montage.A_Man_Fists_Ma_Loot_Montage'";
+    
+	FStanceMapMontage LootFront;
+    default LootFront.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Fist/Loot/Master/A_Man_Fists_Ma_Loot_Montage.A_Man_Fists_Ma_Loot_Montage'";
+   
+    FStanceMapMontage LootDown;
+    default LootDown.m_StanceMap.FindOrAdd(EStance::Standing) = n"AnimMontage'/Game/AnimLibrary/Humanoid/Man/Items/Fist/Loot/Master/A_Man_Fists_Ma_Loot_Montage.A_Man_Fists_Ma_Loot_Montage'";
+
+	default m_MontagesMap.FindOrAdd(n"LootUp", LootUp);
+    default m_MontagesMap.FindOrAdd(n"LootFront", LootFront);
+    default m_MontagesMap.FindOrAdd(n"LootDown", LootDown);
+}

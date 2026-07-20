@@ -1,0 +1,6 @@
+
+UCLASS()
+class AFireDemonFireExplosionVisual : ASphereExplosion
+{
+
+}

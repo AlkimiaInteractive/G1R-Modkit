@@ -1,0 +1,6 @@
+UCLASS()
+class UConversationCharacterSettings_Ambient_FM_GRD_Guard12_294: UConversationCharacterSettings
+{
+    default ForCharacter = n"FM_GRD_Guard12_294";
+    default VoiceTypeSubsets.Add(FVoiceTypeSubset(GameplayTag::VoiceType_G1R_Voice40));
+}

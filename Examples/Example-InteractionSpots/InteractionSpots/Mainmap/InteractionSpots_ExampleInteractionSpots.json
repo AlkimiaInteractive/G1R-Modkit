@@ -1,0 +1,40 @@
+{
+	"interactionSpots": [
+	{
+		"name": "ExampleInteractionSpots_SpotA",
+		"location":
+		{
+			"x": 110689,
+			"y": -76542,
+			"z": -517
+		},
+		"rotation":
+		{
+			"pitch": 0,
+			"yaw": -21,
+			"roll": 0
+		},
+		"possibleActions":
+		{
+			"gameplayTags": [
+				{
+					"tagName": "Action.Ambient.Lurk"
+				}
+			]
+		},
+		"bAllowAnyOrientationWhenUsing": false,
+		"bAllowChainingActions": true,
+		"entryDirection": "Front",
+		"areaRadius": 40,
+		"numAllowedUsers": 1,
+		"priority": 1,
+		"actorToInteractWith": "None",
+		"dataLayer": "/Game/Maps/MainMap/DataLayers/MainMap/FreePoints.FreePoints",
+		"cooldownDuration": 0,
+		"customRequirements": [
+			"/Script/G1R.CharacterSpeciesRequirements(AllowedSpecies=(GameplayTags=((TagName=\"Species.Human\"))))",
+			"/Script/G1R.WeatherRequirements(RequireWeatherCondition=\"/Script/AngelscriptCode.ASClass'/Script/Angelscript.WeatherCondition_NoRain'\")"
+		]
+	}
+	]
+}

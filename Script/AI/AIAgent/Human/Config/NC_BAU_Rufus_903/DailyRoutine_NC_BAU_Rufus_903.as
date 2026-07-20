@@ -1,0 +1,26 @@
+UCLASS()
+class UAIAgentConfig_Human_NC_BAU_Rufus_903 : UAIAgentConfig_Human
+{
+	default m_CharacterDefinition = UCharacterDefinition_Human_NC_BAU_Rufus_903::StaticClass();
+
+}
+
+
+
+UCLASS()
+class UDailyRoutine_NC_BAU_Rufus_903_Start : UAIState_DailyRoutine_Human
+{
+    default AreaOwnership.OwnedAreas.AddTag(GameplayTag::Area_NewCamp_Exterior_RiceFields_Huts_01);
+    default KnownPlaces.Add(Location::Bed, n"IO_NC_BED_RUFUS");
+    default KnownPlaces.Add(Location::Home, n"IO_NC_BED_RUFUS");
+
+    default Schedule(7, 15, UAIState_PickRice(), n"FP_NC_PICKRICE_08");
+    default Schedule(13, 0, UAIState_Eat(), n"FP_NC_PICKRICE_08");
+    default Schedule(13, 30, UAIState_PickRice(), n"FP_NC_PICKRICE_08");
+    default Schedule(20, 15, UAIState_Campfire(), n"FP_NC_CAMPFIRE_07");
+    default Schedule(23, 2, UAIState_Sleep(), Location::Bed, WaypointRadius = 500);
+
+    default ScheduleIfRaining(7, 15, UAIState_RainShelter(), n"FP_NC_RAINSHELTER_09", 300);
+    default ScheduleIfRaining(23, 2, UAIState_Sleep(), Location::Bed, WaypointRadius = 500);
+}
+

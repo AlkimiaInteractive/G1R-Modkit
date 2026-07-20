@@ -1,0 +1,173 @@
+THQ Nordic Modding Policy
+
+Copyright (c) 2026 THQ Nordic GmbH. All rights reserved.
+
+This policy sets out what you may do with the Gothic 1 Remake and with the mods you make. 
+It applies together with the game's End-User License Agreement (EULA), 
+with any game-specific note listed at the end of this file, 
+and with the terms of the platform where you publish your mod.
+
+
+1. WHO MAY USE A MOD KIT
+
+1.1 A mod kit is licensed to you for personal, non-commercial use,
+    under the same conditions as the game it belongs to. Where the
+    game-specific note says so, only owners of the game may use the
+    mod kit.
+
+1.2 The mod kit, its tools and documentation, and all game content in
+    it remain the property of THQ Nordic GmbH and its licensors. You
+    get a licence to use them, not ownership.
+
+
+2. WHAT YOU MAY DO
+
+2.1 Create mods with the mod kit: change scripts, texts, levels,
+    settings and other game data, and add content you made yourself.
+
+2.2 Share your mods free of charge, on the website or platform of your
+    choice, for example Steam Workshop.
+
+2.3 Accept voluntary support, for example through Patreon, Ko-fi or
+    donations. Supporters must not get anything extra in relation to the
+    mod: every version of your mod, including test versions, must be
+    available to everyone free of charge at the same time.
+
+2.4 Show your mods in videos and streams, as described in our Video
+    Policy (https://www.thqnordic.com/legal/video-policy).
+
+
+3. WHAT YOU MAY NOT DO
+
+3.1 SELL YOUR MOD, OR PUT ANY PART OR VERSION OF IT BEHIND A PAYWALL,
+    INCLUDING EARLY ACCESS FOR PAYING SUPPORTERS. Any other commercial
+    use of a mod or of the mod kit needs our prior written consent.
+
+3.2 MAKE A MOD THAT WORKS WITHOUT THE GAME. A mod must need an
+    installed, legitimately owned copy of the game. Do not distribute
+    the game, the mod kit or a standalone version of either.
+
+3.3 DISTRIBUTE ORIGINAL GAME CONTENT ON ITS OWN. Ship only what your
+    mod changes or adds. Do not extract assets (models, textures,
+    music, voice recordings, artworks) from the game to share them
+    separately or to use them in another game or project.
+
+3.4 PRESENT A MOD AS OFFICIAL. Do not use THQ Nordic, studio or game
+    logos in a way that suggests the mod is made, endorsed or supported
+    by us. Every published mod must carry this notice:
+
+        "This is an unofficial modification. It is not made, endorsed
+        or supported by THQ Nordic."
+
+3.5 USE CONTENT YOU HAVE NO RIGHTS TO. Including material from other
+    games, films, music or other creators without their permission.
+
+3.6 MAKE OFFENSIVE OR ILLEGAL MODS, including hateful, discriminatory,
+    sexually explicit or defamatory content, or mods that break the
+    law.
+
+3.7 CHEAT OR CAUSE HARM. No mods that give an unfair advantage in
+    online or multiplayer modes, bypass copy protection or anti-cheat,
+    spread malware, or collect other players' data.
+
+3.8 REVERSE ENGINEER OR HACK THE GAME. Do not decompile, disassemble or
+    otherwise reverse engineer the game or the mod kit, and do not
+    change the game's program code, except through the tools and
+    interfaces the mod kit provides or as far as the law expressly
+    allows.
+
+3.9 USE GAME CONTENT TO TRAIN AI. Do not use the game, the mod kit or
+    any game content, including texts, dialogue, voice recordings,
+    music, models, textures and artworks, to train, fine-tune or
+    otherwise develop an artificial intelligence or machine learning
+    model. This also applies to mods made by others.
+
+3.10 IMITATE THE GAME'S ACTORS WITH AI. Do not use AI to imitate the
+     voice or likeness of the game's voice actors or other performers,
+     for example to create new dialogue in an actor's voice.
+
+
+4. WHO OWNS A MOD
+
+4.1 WHAT IS DERIVED FROM OUR GAME BELONGS TO US. The game, the mod kit
+    and all game content remain the property of THQ Nordic GmbH and its
+    licensors. This also applies to everything you create by changing,
+    adapting or building on game content: for example edited scripts,
+    texts, dialogue and levels, models or textures based on ours, and
+    quests, characters or stories set in the game's world or using its
+    characters. To the extent you acquire rights in such content, you
+    grant THQ Nordic GmbH the exclusive, unlimited, transferable right
+    to use it, free of charge.
+
+4.2 WHAT YOU MAKE FROM SCRATCH STAYS YOURS. Content you create entirely
+    on your own, without using or adapting our content, remains yours:
+    for example a model or texture made from scratch, music you
+    composed, or a story that is completely independent of the game's
+    world and characters.
+
+4.3 For your own content under 4.2 that you publish as part of a mod,
+    you grant THQ Nordic GmbH a free, non-exclusive, worldwide,
+    perpetual licence to use, copy, show, distribute and adapt it in
+    connection with the game. This includes featuring or promoting your
+    mod, for example in news posts, on our channels or at events, and
+    making it compatible with game updates. We have no obligation to
+    use your mod. Where we feature it, we will credit you if you ask us
+    to.
+
+4.4 You confirm that you have the rights needed for everything in your
+    mod and for the rights granted in 4.1 and 4.3.
+
+
+5. REMOVAL
+
+We may ask you, or the platform hosting your mod, to remove a mod that
+breaks this policy or the law, or that we consider harmful to the game,
+its players or our partners. You agree to remove it promptly when
+asked. If you break this policy, your licence to use the mod kit ends.
+
+
+6. NO SUPPORT, NO WARRANTY
+
+THE MOD KIT IS PROVIDED "AS IS". We do not offer technical support for
+the mod kit or for mods, and we are not responsible for mods made by
+others. You use mods at your own risk. Back up your save games before
+installing one. You are responsible for your mods and will hold THQ
+Nordic GmbH harmless against claims of third parties caused by them, as
+set out in the EULA.
+
+
+7. CHANGES AND CONTACT
+
+We may update this policy. 
+Questions: https://www.thqnordic.com/company/contact
+
+
+-----------------------------------------------------------------------
+GAME-SPECIFIC NOTE: GOTHIC 1 REMAKE MOD KIT
+-----------------------------------------------------------------------
+
+The THQ Nordic Modding Policy applies to the Gothic 1 Remake Mod Kit,
+with these additions:
+
+1. OWNERS ONLY. The mod kit is available to owners of Gothic 1 Remake
+   on PC. Mods made with it run only with an installed copy of Gothic 1
+   Remake.
+
+2. WHAT YOU CAN CHANGE. AngelScript scripts, texts and dialogue, and
+   other game data the mod kit opens up. Ship only your changed or new
+   files, never the game's original files or archives.
+
+3. WHERE TO SHARE. Anywhere, including Steam Workshop. Workshop uploads
+   are also subject to the Steam Subscriber Agreement.
+
+4. OTHER RIGHTS HOLDERS. Gothic 1 Remake is developed by Alkimia
+   Interactive. Parts of the game may belong to third parties. 
+   Do not extract them for use outside the
+   game.
+
+5. SUPPORT. Please report problems with a mod to its author, not to
+   THQ Nordic support.
+
+6. NAME AND LOGOS. You may use the name "Gothic" to describe what your
+   mod is for ("a mod for Gothic 1 Remake"). Do not use the Gothic or
+   THQ Nordic logos in your mod's name, title image or store page.

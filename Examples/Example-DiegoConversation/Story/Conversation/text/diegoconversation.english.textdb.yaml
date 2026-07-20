@@ -1,0 +1,38 @@
+Example_DiegoConversation_PlainChoice_Caption:
+  english: "Example: a plain dialogue choice"
+
+Example_DiegoConversation_PlainChoice_Player:
+  english: "This is an example dialogue choice added by a mod."
+
+Example_DiegoConversation_PlainChoice_Npc:
+  english: "And this is Diego's example reply. That's all there is to a plain choice."
+
+Example_DiegoConversation_Subdialog_Caption:
+  english: "Example: a choice with a subdialog"
+
+Example_DiegoConversation_Subdialog_Player:
+  english: "This example choice opens a subdialog."
+
+Example_DiegoConversation_Subdialog_Npc:
+  english: "Pick one of the two example options below."
+
+Example_DiegoConversation_SubdialogA_Caption:
+  english: "Example: the first sub-option"
+
+Example_DiegoConversation_SubdialogA_Player:
+  english: "I'll pick the first example option."
+
+Example_DiegoConversation_SubdialogA_Npc:
+  english: "That was the first sub-option. The example ends here."
+
+Example_DiegoConversation_SubdialogB_Caption:
+  english: "Example: the second sub-option"
+
+Example_DiegoConversation_SubdialogB_Player:
+  english: "I'll pick the second example option."
+
+Example_DiegoConversation_SubdialogB_Npc:
+  english: "That was the second sub-option. The example ends here."
+
+Example_DiegoConversation_Forced_Npc:
+  english: "This is an example of a forced line. Diego says it on his own when you get close to his bench."

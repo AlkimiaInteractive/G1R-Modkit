@@ -1,0 +1,6 @@
+UCLASS()
+class UConversationCharacterSettings_Ambient_OW_OWR_Krashok_2405: UConversationCharacterSettings
+{
+    default ForCharacter = n"OW_OWR_Krashok_2405";
+    default VoiceTypeSubsets.Add(FVoiceTypeSubset(GameplayTag::VoiceType_G1R_Voice19_OrcM));
+}

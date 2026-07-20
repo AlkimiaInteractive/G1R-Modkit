@@ -1,0 +1,4 @@
+class UDifficultyPresetBase : UDifficultyPreset
+{
+
+}

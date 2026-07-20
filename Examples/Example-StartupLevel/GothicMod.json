@@ -1,0 +1,7 @@
+{
+	"name": "Example-StartupLevel",
+	"title": "Example: Startup Level",
+	"author": "Alkimia Interactive",
+	"description": "Changes the game's default map to G1R_EmptyLevel via config",
+	"modVersion": "1.0.0"
+}

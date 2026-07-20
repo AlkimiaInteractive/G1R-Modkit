@@ -1,0 +1,7 @@
+{
+	"name": "Example-ChestContents",
+	"title": "Example: Chest Contents",
+	"author": "Alkimia Interactive",
+	"description": "Puts 99 apples into the exchange zone chest that holds a beer, using inheritance injection.",
+	"modVersion": "1.0.0"
+}

@@ -1,0 +1,4 @@
+class USummonedCreatureComponent : UGothicGenericMagicComponent
+{
+
+}

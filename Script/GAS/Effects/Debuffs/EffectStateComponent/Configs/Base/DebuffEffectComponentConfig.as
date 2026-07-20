@@ -1,0 +1,5 @@
+UCLASS()
+class UDebuffEffectComponentConfig : UEffectComponentConfiguration
+{
+
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Example-CharacterSpawner",
+	"title": "Example: Character Spawner",
+	"author": "Alkimia Interactive",
+	"description": "Spawns a character in the world using a WorldPoint: builds a new WorldPoint from scratch and hooks a custom WorldPoint script that spawns an UndeadOrc on OnWorldStart.",
+	"modVersion": "1.0.0"
+}

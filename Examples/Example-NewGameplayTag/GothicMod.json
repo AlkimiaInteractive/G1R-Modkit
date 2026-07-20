@@ -1,0 +1,7 @@
+{
+	"name": "Example-NewGameplayTag",
+	"title": "Example: New GameplayTag",
+	"author": "Alkimia Interactive",
+	"description": "Adds a new GameplayTag via config and uses it in a script",
+	"modVersion": "1.0.0"
+}

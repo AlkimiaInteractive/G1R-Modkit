@@ -1,0 +1,7 @@
+{
+	"name": "Example-ItemSpawner",
+	"title": "Example: Item Spawner",
+	"author": "Alkimia Interactive",
+	"description": "Spawns items in the world using WorldPoints: replacing an existing spawner, adding a single spawn, and building a randomized spawner from scratch.",
+	"modVersion": "1.0.0"
+}

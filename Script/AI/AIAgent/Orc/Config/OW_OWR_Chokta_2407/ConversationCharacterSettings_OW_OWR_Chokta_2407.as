@@ -1,0 +1,6 @@
+UCLASS()
+class UConversationCharacterSettings_Ambient_OW_OWR_Chokta_2407: UConversationCharacterSettings
+{
+    default ForCharacter = n"OW_OWR_Chokta_2407";
+    default VoiceTypeSubsets.Add(FVoiceTypeSubset(GameplayTag::VoiceType_G1R_Voice19_OrcM));
+}

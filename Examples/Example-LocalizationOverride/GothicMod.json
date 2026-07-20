@@ -1,0 +1,7 @@
+{
+	"name": "Example-LocalizationOverride",
+	"title": "Example: Localization Override",
+	"author": "Alkimia Interactive",
+	"description": "Changes the 'Continue' text in the pause menu",
+	"modVersion": "1.0.0"
+}

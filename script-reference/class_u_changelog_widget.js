@@ -1,0 +1,26 @@
+var class_u_changelog_widget =
+[
+    [ "ActivateFirstIndexEntry", "class_u_changelog_widget.html#ad4a7b2fc6b57307db6add5cc299a1221", null ],
+    [ "ActivateIndexEntry", "class_u_changelog_widget.html#a04f17794685721f5fb662e1e1713389b", null ],
+    [ "ActivateLastIndexEntry", "class_u_changelog_widget.html#a2d40734d28e77ed94e86331afcb6d3c2", null ],
+    [ "ActivateNextIndexEntry", "class_u_changelog_widget.html#ac602069d31a5f374648390c50e766e8b", null ],
+    [ "ActivatePreviousIndexEntry", "class_u_changelog_widget.html#acdde96be698fbf7c0311878517ca5f5b", null ],
+    [ "GetActiveEntryIndex", "class_u_changelog_widget.html#a377359a20a99687a1779b4daa476677a", null ],
+    [ "GetCurrentInputType", "class_u_changelog_widget.html#a03b0ae5a20bfe341ee218573ae61e59f", null ],
+    [ "OnChangelogContentChanged", "class_u_changelog_widget.html#afad63d137b4bc3f5072b5aaeab90a003", null ],
+    [ "OnChangelogIndexChanged", "class_u_changelog_widget.html#a8339e412d69e5e0aafc564af631fc18a", null ],
+    [ "OnInputTypeChanged", "class_u_changelog_widget.html#a7cc92b4b0061339e5222364516d04a77", null ],
+    [ "ReadChangelogFile", "class_u_changelog_widget.html#af18f3eabd3d137ea4b667f5140a700c2", null ],
+    [ "ReadChangelogIndex", "class_u_changelog_widget.html#a1b91815db83a1abc43310eb1bb9679ef", null ],
+    [ "StaticClass", "class_u_changelog_widget.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "ActiveEntryIndex", "class_u_changelog_widget.html#ab3c251149c1405f4df47f32a2522b898", null ],
+    [ "CurrentInputType", "class_u_changelog_widget.html#ab54d535347f74900a58e4874e60faee6", null ],
+    [ "m_ChangelogBaseURL", "class_u_changelog_widget.html#a5845cdaba51e5a76d9fb3f39578c9a5b", null ],
+    [ "m_ChangelogIndexURL", "class_u_changelog_widget.html#a9c729ec7fcf295f6564f781d9080995e", null ],
+    [ "m_ChangelogIndexURL_NonShipping", "class_u_changelog_widget.html#a8fc75bcebfb9a32ab7d1d4c99beb8b67", null ],
+    [ "m_ChangelogURLSuffix", "class_u_changelog_widget.html#aac29726d9b2751a5120753971527a02f", null ],
+    [ "m_DisplayNamePrefix", "class_u_changelog_widget.html#a6e1f85ced411b50d3d3dc49a631de671", null ],
+    [ "m_DisplayNameSuffix", "class_u_changelog_widget.html#a98436a077c290b9d15da827dde2e2d09", null ],
+    [ "m_NameReplacementMap", "class_u_changelog_widget.html#a2973b4bbb4f07dbadb2e68fc9cf5fa84", null ],
+    [ "m_ReverseIndexOrder", "class_u_changelog_widget.html#a1a670e779e749f5a146c9bbeff639897", null ]
+];

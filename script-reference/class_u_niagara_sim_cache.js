@@ -1,0 +1,28 @@
+var class_u_niagara_sim_cache =
+[
+    [ "GetAttributeCaptureMode", "class_u_niagara_sim_cache.html#a99ca51035f7c965c6b0d4051bf946446", null ],
+    [ "GetEmitterName", "class_u_niagara_sim_cache.html#a4b5025252e5864afb43fef3674ec643d", null ],
+    [ "GetEmitterNames", "class_u_niagara_sim_cache.html#a91c34f2a88a5b49659bc2600064d2b96", null ],
+    [ "GetNumEmitters", "class_u_niagara_sim_cache.html#a09e3ad7da6e5a01600f2e96b0f2210be", null ],
+    [ "GetNumFrames", "class_u_niagara_sim_cache.html#a9661a82575ad25da0aa785a3d8e1685a", null ],
+    [ "GetStartSeconds", "class_u_niagara_sim_cache.html#a5769e995d9131657747b093ebe8cdb0c", null ],
+    [ "IsCacheValid", "class_u_niagara_sim_cache.html#a47cd99774fbe3a282157cef5b21cf958", null ],
+    [ "IsEmpty", "class_u_niagara_sim_cache.html#a8e12342fc420701fbffd97025421575a", null ],
+    [ "ReadColorAttribute", "class_u_niagara_sim_cache.html#a0e15f42847bebc1001325fb25569aca9", null ],
+    [ "ReadFloatAttribute", "class_u_niagara_sim_cache.html#a040944e741cac1b281c5da3bfdda2cd9", null ],
+    [ "ReadIDAttribute", "class_u_niagara_sim_cache.html#a2fb4f1bd31d2e90be5bac3bf37aad843", null ],
+    [ "ReadIntAttribute", "class_u_niagara_sim_cache.html#a2604eaaabaa6c0063d522af9b35fcada", null ],
+    [ "ReadPositionAttribute", "class_u_niagara_sim_cache.html#a398c303a993b5ec9c8c02f6ede37878c", null ],
+    [ "ReadPositionAttributeWithRebase", "class_u_niagara_sim_cache.html#a23cb4dbab6cd1a5c910a6c34d43bac26", null ],
+    [ "ReadQuatAttribute", "class_u_niagara_sim_cache.html#a3b60e10400d2b1e7a3575ee162edb1d9", null ],
+    [ "ReadQuatAttributeWithRebase", "class_u_niagara_sim_cache.html#a17e87ab629943ee19b0b7328285ad908", null ],
+    [ "ReadVector2Attribute", "class_u_niagara_sim_cache.html#a3d7e2b4771a6cbaed304c110ba234676", null ],
+    [ "ReadVector4Attribute", "class_u_niagara_sim_cache.html#a77101c8c668f7f11b76fdbcd8eb671e2", null ],
+    [ "ReadVectorAttribute", "class_u_niagara_sim_cache.html#a9a275b9d9ac2505adff8f4b95381c45e", null ],
+    [ "StaticClass", "class_u_niagara_sim_cache.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "AttributeCaptureMode", "class_u_niagara_sim_cache.html#ac6f00ae5064626c6c08e952d7730fa35", null ],
+    [ "EmitterNames", "class_u_niagara_sim_cache.html#a37b9dedcf8f98e7a88fc9b47f635b371", null ],
+    [ "NumEmitters", "class_u_niagara_sim_cache.html#aea432d37659d7355c4165b56ae254e8e", null ],
+    [ "NumFrames", "class_u_niagara_sim_cache.html#aa403e46d8a81addeacd08217e9a7f66b", null ],
+    [ "StartSeconds", "class_u_niagara_sim_cache.html#a13e14c6c8b42c3455fd218e5979aabc5", null ]
+];

@@ -1,0 +1,28 @@
+var class_u_smart_object_definition =
+[
+    [ "GetActivityTags", "class_u_smart_object_definition.html#afe9138379762df95872fc557793c6746", null ],
+    [ "GetBounds", "class_u_smart_object_definition.html#ad810175b08a618a80b88d1e8c3e2da7c", null ],
+    [ "GetMutableSlot", "class_u_smart_object_definition.html#abc4d66bf64e006b32ce9d474ada37ab7", null ],
+    [ "GetSlotActivityTagsByIndex", "class_u_smart_object_definition.html#acff4e1dd1f77499d447a9417b9058583", null ],
+    [ "GetSlots", "class_u_smart_object_definition.html#a04ba0cdc996487af8083d6cee45df4d9", null ],
+    [ "GetSlotWorldTransform", "class_u_smart_object_definition.html#a600e2b4607ebc50ddb06f81200263ffa", null ],
+    [ "GetUserTagFilter", "class_u_smart_object_definition.html#a86c85c4985ca1ab93752607a91f29cb8", null ],
+    [ "GetUserTagsFilteringPolicy", "class_u_smart_object_definition.html#a9e78917959dd69ac9e79791e0e7e6f55", null ],
+    [ "IsValidSlotIndex", "class_u_smart_object_definition.html#a8ffc89dae573b963dcd0b3b74c9b4bcb", null ],
+    [ "SetActivityTags", "class_u_smart_object_definition.html#a4141205e6af479e0b1867091639a529d", null ],
+    [ "SetSlots", "class_u_smart_object_definition.html#ab7f93d7994309987e7bffa64cd0ccb68", null ],
+    [ "SetUserTagFilter", "class_u_smart_object_definition.html#a9f5837b795eb9e2ea25cb241b88eef4c", null ],
+    [ "SetUserTagsFilteringPolicy", "class_u_smart_object_definition.html#ad001bdec9d9de6b23820a394d7339162", null ],
+    [ "StaticClass", "class_u_smart_object_definition.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "ActivityTags", "class_u_smart_object_definition.html#a879b98d905970cdda7a30933bd34c4d8", null ],
+    [ "ActivityTagsMergingPolicy", "class_u_smart_object_definition.html#ae0988f266581b42bc48878911b5a6d37", null ],
+    [ "Bounds", "class_u_smart_object_definition.html#abe069d924c2de03f70e34975864ef76b", null ],
+    [ "DefaultBehaviorDefinitions", "class_u_smart_object_definition.html#a93f6d0dbf29158ffc1f302594f0f57fa", null ],
+    [ "DefinitionData", "class_u_smart_object_definition.html#a7784b757a47cc5a3bbfe5c8effefabab", null ],
+    [ "Parameters", "class_u_smart_object_definition.html#a594f1e406eb04f370f2518bea52d02e2", null ],
+    [ "Preconditions", "class_u_smart_object_definition.html#a43ad5a562e30e5d420788411bf84786d", null ],
+    [ "Slots", "class_u_smart_object_definition.html#a3c8e59a315d74ae337929e02f35c1c73", null ],
+    [ "UserTagFilter", "class_u_smart_object_definition.html#a3bcd226d16ad6975ffc1ff0130d07fd6", null ],
+    [ "UserTagsFilteringPolicy", "class_u_smart_object_definition.html#a4470b4c44eb479ba2d0f378d6fd53806", null ],
+    [ "WorldConditionSchemaClass", "class_u_smart_object_definition.html#a5c7a1c8f643da6a99cdd69f2ad1fa2ab", null ]
+];

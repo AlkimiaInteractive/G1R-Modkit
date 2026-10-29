@@ -1,0 +1,4 @@
+var class_u_anim_notify_state___gothic_disable_root_motion =
+[
+    [ "StaticClass", "class_u_anim_notify_state___gothic_disable_root_motion.html#a263bcdf07c6d9f76c5ac5348962e008a", null ]
+];

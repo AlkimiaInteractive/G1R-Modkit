@@ -1,0 +1,28 @@
+var class_u_gameplay_ability_skip_time =
+[
+    [ "CanSkipTime_Scriptable", "class_u_gameplay_ability_skip_time.html#ad6266173eda72bb5f62c4f34fe3e89df", null ],
+    [ "Client_OnAllPlayersConfirmedSleep", "class_u_gameplay_ability_skip_time.html#ae74002d29db87912706bd8e9b14315cb", null ],
+    [ "GetEndWaitMessageTag_Scriptable", "class_u_gameplay_ability_skip_time.html#a6e44307226b56875090563ee384b88d8", null ],
+    [ "OnActivateAbility_Scriptable", "class_u_gameplay_ability_skip_time.html#a323d5b9e46d961edc159e5ede10113b2", null ],
+    [ "OnActivateAbilityBeforeAssetPreload_Scriptable", "class_u_gameplay_ability_skip_time.html#a71f5aafc9307f1aa5fb4047ddf6afa71", null ],
+    [ "OnCanActivateAbility_Scriptable", "class_u_gameplay_ability_skip_time.html#ad92020926c388a3962371e70831b97fb", null ],
+    [ "OnEndAbility_Scriptable", "class_u_gameplay_ability_skip_time.html#a4071d15941e908c4386f4ae2dc01e264", null ],
+    [ "OnHourSkipped_Scriptable", "class_u_gameplay_ability_skip_time.html#a3281d4c85119af3b019d55e727fc10e9", null ],
+    [ "OnSkipTime_Scriptable", "class_u_gameplay_ability_skip_time.html#a9bf49b448404e306874b52cab4bdc863", null ],
+    [ "Server_ApplySleepingGameplayEffects", "class_u_gameplay_ability_skip_time.html#a94664dbbbba4e3c92a61f4bfb6d53022", null ],
+    [ "Server_OnSkipTimeUICloseButtonClicked", "class_u_gameplay_ability_skip_time.html#a1f9c3df3bbabba109f97c233f9b5a3b6", null ],
+    [ "Server_OnSkipTimeUIConfirmButtonClicked", "class_u_gameplay_ability_skip_time.html#a31d8b89e13792dd30e4dc479472058e0", null ],
+    [ "ShouldNPCInterruptWaitingDueToTrespassing", "class_u_gameplay_ability_skip_time.html#afeafec2e72268c0cd75d31456cb41f3f", null ],
+    [ "StaticClass", "class_u_gameplay_ability_skip_time.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "EndWaitMessageTag_Scriptable", "class_u_gameplay_ability_skip_time.html#afde2ad4f51ed14ffb829cfc7866cf6bc", null ],
+    [ "m_FadeSetup", "class_u_gameplay_ability_skip_time.html#a0005f13ba6c6823e8921c5449452c9f5", null ],
+    [ "m_InteractionSpotTag", "class_u_gameplay_ability_skip_time.html#aeb633b212fe79cf201130b0a0affe49f", null ],
+    [ "m_SkipTimeEffect", "class_u_gameplay_ability_skip_time.html#acf4e92f2d1da473049d8147f261a438d", null ],
+    [ "m_SkipTimeEndReason", "class_u_gameplay_ability_skip_time.html#a7a1485372c2062e739b7bb91903dfd5f", null ],
+    [ "m_TimeBetweenFadeOutAndFadeIn", "class_u_gameplay_ability_skip_time.html#af3221f9253db9e099234350c508a1a8e", null ],
+    [ "m_TimeBetweenSitAndFadeOut", "class_u_gameplay_ability_skip_time.html#a5e81e542a632be9f9c6187c417073e83", null ],
+    [ "m_TimeBetweenStartAndSit", "class_u_gameplay_ability_skip_time.html#a06f362f966e18a131ff5fed9f07378cc", null ],
+    [ "m_TrespassingCheckRadius", "class_u_gameplay_ability_skip_time.html#a0878a48b09625274774e9a98e67962f2", null ],
+    [ "m_WaitEndedMessages", "class_u_gameplay_ability_skip_time.html#ae20310e3fbd3395f5f69de34e5eebc80", null ],
+    [ "m_WasSkipTimeInterrupted", "class_u_gameplay_ability_skip_time.html#ad145e1c19a8bf479305e6a20ac940317", null ]
+];

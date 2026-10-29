@@ -1,0 +1,27 @@
+var class_u_runtime_virtual_texture =
+[
+    [ "GetPageTableSize", "class_u_runtime_virtual_texture.html#a0ae381bbc564a8c834a98d946ed2c5b2", null ],
+    [ "GetSize", "class_u_runtime_virtual_texture.html#aa4907b035ab197f57102411e48b2cfc0", null ],
+    [ "GetTileBorderSize", "class_u_runtime_virtual_texture.html#aede43f5e8a4eb3a2906fdc0c1254f146", null ],
+    [ "GetTileCount", "class_u_runtime_virtual_texture.html#a0fdec3cbc9757ef828867329818ae745", null ],
+    [ "GetTileSize", "class_u_runtime_virtual_texture.html#a5b91eed0c1a0090509029ba184d14ca9", null ],
+    [ "SetTileBorderSize", "class_u_runtime_virtual_texture.html#af75c1709d0460e4baddc6e292583b9fd", null ],
+    [ "SetTileCount", "class_u_runtime_virtual_texture.html#a9c71c74bc0e2f9bfcb7978206968340c", null ],
+    [ "SetTileSize", "class_u_runtime_virtual_texture.html#a1340d7d2ac6e9c506dabff0a3e4f38e9", null ],
+    [ "StaticClass", "class_u_runtime_virtual_texture.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "bAdaptive", "class_u_runtime_virtual_texture.html#a0985d8b49f88f3a629788ec432ba5475", null ],
+    [ "bClearTextures", "class_u_runtime_virtual_texture.html#a45a9f54dc4111a01c39b75014a62508a", null ],
+    [ "bCompressTextures", "class_u_runtime_virtual_texture.html#a473cc029bcd5783875db2c7288f09132", null ],
+    [ "bContinuousUpdate", "class_u_runtime_virtual_texture.html#a3f11949dc3a28263d4eeebf2a6ed0da1", null ],
+    [ "bPrivateSpace", "class_u_runtime_virtual_texture.html#ab1db5d697a7a31d5761ce83c549113c6", null ],
+    [ "bSinglePhysicalSpace", "class_u_runtime_virtual_texture.html#a94474f11310dc67fc3a95a22ff224dad", null ],
+    [ "bUseLowQualityCompression", "class_u_runtime_virtual_texture.html#a5c074f64021f79aece8366e28c0b1b20", null ],
+    [ "LODGroup", "class_u_runtime_virtual_texture.html#ac946fbc805e6a09afff2c641f8a59533", null ],
+    [ "MaterialType", "class_u_runtime_virtual_texture.html#a870f77d3a9ad7b04f6b573d2b3d60b8c", null ],
+    [ "PageTableSize", "class_u_runtime_virtual_texture.html#a59a0d7670ad5ca2167e7fc549b1fb28f", null ],
+    [ "RemoveLowMips", "class_u_runtime_virtual_texture.html#ae55c6f9f7bfb80d92a5b2cc55e54fc4b", null ],
+    [ "Size", "class_u_runtime_virtual_texture.html#a98e1f423a914fbfd9c6b25fa88a74460", null ],
+    [ "TileBorderSize", "class_u_runtime_virtual_texture.html#a7c220f58521f6b36173a593e1a0e98c2", null ],
+    [ "TileCount", "class_u_runtime_virtual_texture.html#a0c7646ed13f8f097a727b9d1eb69c98c", null ],
+    [ "TileSize", "class_u_runtime_virtual_texture.html#a3bb078aa80faaf138f52090c56b51714", null ]
+];

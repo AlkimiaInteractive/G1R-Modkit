@@ -1,0 +1,26 @@
+var class_u_weapon_definition =
+[
+    [ "AddHitCueDataForSpecie", "class_u_weapon_definition.html#aaa55d41366f59564194392812e234368", null ],
+    [ "GetCriticalMultiplier", "class_u_weapon_definition.html#a1a6da22ed0af659eb4c4f091f68ecab1", null ],
+    [ "GetCriticalWeakSpotsTags", "class_u_weapon_definition.html#afe2149d75cf41a7d8d524fec0bbb3fe6", null ],
+    [ "GetDamage", "class_u_weapon_definition.html#a7b890856c4d13df252db4e661e4cfc69", null ],
+    [ "GetDamageTypes", "class_u_weapon_definition.html#a0d1aded9cb0a277f38e1819afed48649", null ],
+    [ "GetDeathEffect", "class_u_weapon_definition.html#a5936d0b52544e930666577f703fca52b", null ],
+    [ "GetHitCueDataByDamageTypeAndSpecie", "class_u_weapon_definition.html#ad2a1d1e526066d0b5e70e65c5cb35483", null ],
+    [ "GetHitEffect", "class_u_weapon_definition.html#a6cc55be77a60b86f49484a555205cf8f", null ],
+    [ "GetSuperArmorDamage", "class_u_weapon_definition.html#a4595fd8baa3e9d0854129adcf0f3e29c", null ],
+    [ "StaticClass", "class_u_weapon_definition.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "CriticalMultiplier", "class_u_weapon_definition.html#a6dcb853821ae2b4f835a28cace6ff846", null ],
+    [ "CriticalWeakSpotsTags", "class_u_weapon_definition.html#a2c1c0f1b0971d5891b8f4ebbc1547b8e", null ],
+    [ "DamageTypes", "class_u_weapon_definition.html#a620790b46a82dccf4f53fc82cc6d828e", null ],
+    [ "DeathEffect", "class_u_weapon_definition.html#acaffe2da28b2937d99685bbcce69be1f", null ],
+    [ "HitEffect", "class_u_weapon_definition.html#a7e5b67498324936ed73d2ad783ed2ecc", null ],
+    [ "m_CriticalMultiplier", "class_u_weapon_definition.html#afc39e6b8d266cc36973976cb475f8e1d", null ],
+    [ "m_CriticalWeakSpotsTags", "class_u_weapon_definition.html#a9de8651717c74745c01b5483f31b5b5f", null ],
+    [ "m_DamageBase", "class_u_weapon_definition.html#a50bbc04fd82fb9e4e791b6039cc28dd4", null ],
+    [ "m_DeathEffect", "class_u_weapon_definition.html#a0453970bd9a9e8243a9b794b296fc2cd", null ],
+    [ "m_HitCueDataByDamageType", "class_u_weapon_definition.html#a4ff9ac8ca076e21a33c085eb60d46519", null ],
+    [ "m_HitEffect", "class_u_weapon_definition.html#aad2e593a925296ef1f1c6d2f76711e31", null ],
+    [ "m_SuperArmorDamageBase", "class_u_weapon_definition.html#a87f685aa31ecb9009fa9891b7d8be291", null ],
+    [ "SuperArmorDamage", "class_u_weapon_definition.html#ae7c4c00ef238790bf35cb8c90aa918a9", null ]
+];

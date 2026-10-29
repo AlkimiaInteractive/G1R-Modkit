@@ -1,0 +1,28 @@
+var class_u_niagara_ribbon_renderer_properties =
+[
+    [ "SetbCastShadows", "class_u_niagara_ribbon_renderer_properties.html#a11ff051b4ba8e08805b4cedb0d4c349a", null ],
+    [ "SetbEnableAccurateGeometry", "class_u_niagara_ribbon_renderer_properties.html#a4882c1e558fc66f53f31290a9a3e2228", null ],
+    [ "SetbScreenSpaceTessellation", "class_u_niagara_ribbon_renderer_properties.html#a2cc2d2d6f4db6ea0cc35c6de7796840e", null ],
+    [ "SetbUseConstantFactor", "class_u_niagara_ribbon_renderer_properties.html#a7084a0ba216035bfc29a4c0c802a89ac", null ],
+    [ "SetbUseGeometryNormals", "class_u_niagara_ribbon_renderer_properties.html#a1ad7fc7e8d8cfdd7825381400f397d6b", null ],
+    [ "SetbUseGPUInit", "class_u_niagara_ribbon_renderer_properties.html#a09e4f5fbfbad0896f25d0e189d7f06a8", null ],
+    [ "SetbUseMaterialBackfaceCulling", "class_u_niagara_ribbon_renderer_properties.html#ae9f5de2f25263f88f0daff1cce5d3bba", null ],
+    [ "StaticClass", "class_u_niagara_ribbon_renderer_properties.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "CurveTension", "class_u_niagara_ribbon_renderer_properties.html#afa3eb368529674aea451b3b10c867fc8", null ],
+    [ "CustomVertices", "class_u_niagara_ribbon_renderer_properties.html#af7d2db87fb424e2052b2fb4d55bc15ab", null ],
+    [ "DrawDirection", "class_u_niagara_ribbon_renderer_properties.html#a1f09394e3f96f98cee14657445b04b1e", null ],
+    [ "FacingMode", "class_u_niagara_ribbon_renderer_properties.html#a2dd67562f625291d3781fa731f3f8a1a", null ],
+    [ "Material", "class_u_niagara_ribbon_renderer_properties.html#ab3d5299a0935df5e39649e0a695ffd52", null ],
+    [ "MaterialParameters", "class_u_niagara_ribbon_renderer_properties.html#a5c95a0db9f1384307301e2f0857d617c", null ],
+    [ "MaterialUserParamBinding", "class_u_niagara_ribbon_renderer_properties.html#aa2b3f1774d2659fa1692cb5dcc6833bb", null ],
+    [ "MaxNumRibbons", "class_u_niagara_ribbon_renderer_properties.html#a7fac6999fa273c3af25ceca32318e62f", null ],
+    [ "MultiPlaneCount", "class_u_niagara_ribbon_renderer_properties.html#af87b28665348a81546da3fcdb2913d32", null ],
+    [ "Shape", "class_u_niagara_ribbon_renderer_properties.html#afb90df365109279f62620c68a5bd4fbc", null ],
+    [ "TessellationAngle", "class_u_niagara_ribbon_renderer_properties.html#a0a112c42cf6d9a54fa7dea1729e9b623", null ],
+    [ "TessellationFactor", "class_u_niagara_ribbon_renderer_properties.html#a8a4971f0ca2c36d1d87518ff5591fd42", null ],
+    [ "TessellationMode", "class_u_niagara_ribbon_renderer_properties.html#a45fb831d630eb3a450c24c0b22ac482d", null ],
+    [ "TubeSubdivisions", "class_u_niagara_ribbon_renderer_properties.html#a18c9ae197b6e9e2ffaa05bcb61253ec5", null ],
+    [ "UV0Settings", "class_u_niagara_ribbon_renderer_properties.html#a5e41a08e9fc0ff2b4470b064352c1934", null ],
+    [ "UV1Settings", "class_u_niagara_ribbon_renderer_properties.html#ab99dd31e6259d775869ef9ed8f95b485", null ],
+    [ "WidthSegmentationCount", "class_u_niagara_ribbon_renderer_properties.html#a955efaf76c76a9c563b653ce6e15ff74", null ]
+];

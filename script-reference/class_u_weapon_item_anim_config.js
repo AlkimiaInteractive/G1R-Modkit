@@ -1,0 +1,28 @@
+var class_u_weapon_item_anim_config =
+[
+    [ "GetAttackRotateSpeedManualReorient", "class_u_weapon_item_anim_config.html#a9d8d7df070086f3e4de9d323affdf952", null ],
+    [ "GetIntialRotateMagnetMaxAngle", "class_u_weapon_item_anim_config.html#af0c6328ffc9aef7affda9067fa0f0424", null ],
+    [ "GetRotateSpeedCharge", "class_u_weapon_item_anim_config.html#a34dc3074cc62d3b8e0d311095ef6648d", null ],
+    [ "GetRotateSpeedMagnetAI", "class_u_weapon_item_anim_config.html#a2cd90006d41b167f12d1192751fa2583", null ],
+    [ "GetRotateSpeedMagnetPlayer", "class_u_weapon_item_anim_config.html#af8c2c29f5f36d6784adcd1dca6f05d91", null ],
+    [ "GetRotateSpeedReorient", "class_u_weapon_item_anim_config.html#aeaafc229485111cc9321dfd0f8aea646", null ],
+    [ "GetTauntData", "class_u_weapon_item_anim_config.html#ac03508b639bce74bb3efb814f5fc3286", null ],
+    [ "StaticClass", "class_u_weapon_item_anim_config.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "AttackRotateSpeedManualReorient", "class_u_weapon_item_anim_config.html#a0b4e9a87abee9b9916d05c2d2fb77ba9", null ],
+    [ "IntialRotateMagnetMaxAngle", "class_u_weapon_item_anim_config.html#a1c675c68e8e0e6576842c11b19aa32bc", null ],
+    [ "m_AttackRotateSpeedManualReorient", "class_u_weapon_item_anim_config.html#a21841c150c3fdfe040c27cad505a3a88", null ],
+    [ "m_Attacks", "class_u_weapon_item_anim_config.html#a3029ed2cdc1f477c5373eca1c2fff624", null ],
+    [ "m_BlockMontage", "class_u_weapon_item_anim_config.html#af15f2dd572206935f4de79d017649082", null ],
+    [ "m_ExecutionData", "class_u_weapon_item_anim_config.html#a746167e8c554b9b9d37953449d58e9f3", null ],
+    [ "m_IntialRotateMagnetMaxAngle", "class_u_weapon_item_anim_config.html#af40dba13f526f6c6936fd80a2a920c14", null ],
+    [ "m_RotateSpeedCharge", "class_u_weapon_item_anim_config.html#a6d560f88bd8366661844d164907e47c1", null ],
+    [ "m_RotateSpeedMagnetAI", "class_u_weapon_item_anim_config.html#a02ce7932c7e53179680dcc13355ce7e7", null ],
+    [ "m_RotateSpeedMagnetPlayer", "class_u_weapon_item_anim_config.html#ad04d9edd50e1db27ba95f54ed7a5f345", null ],
+    [ "m_RotateSpeedReorient", "class_u_weapon_item_anim_config.html#ae10db548977e92495ae63131db2ea325", null ],
+    [ "m_TauntData", "class_u_weapon_item_anim_config.html#a305d7af24370d2fee0361e9916067673", null ],
+    [ "RotateSpeedCharge", "class_u_weapon_item_anim_config.html#a80cd7be86560375563f28a34bd1cd9d5", null ],
+    [ "RotateSpeedMagnetAI", "class_u_weapon_item_anim_config.html#aa20ea8695c4d7360f40445d85d26c3d4", null ],
+    [ "RotateSpeedMagnetPlayer", "class_u_weapon_item_anim_config.html#afa4e6192d4d2ec06484910dd1ab2668f", null ],
+    [ "RotateSpeedReorient", "class_u_weapon_item_anim_config.html#a41d667e9dc7d55a61579b3c9c0183faf", null ],
+    [ "TauntData", "class_u_weapon_item_anim_config.html#affcc741c69971c336cb49059ffe4a549", null ]
+];

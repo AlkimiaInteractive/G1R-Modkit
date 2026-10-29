@@ -1,0 +1,26 @@
+var class_u_setting_object___float =
+[
+    [ "GetAlwaysShowSign", "class_u_setting_object___float.html#a2c9e74e6322094cf2406d19a63692b35", null ],
+    [ "GetDecimalPlaces", "class_u_setting_object___float.html#a258739a5473b8beaa0588f00b89bbab3", null ],
+    [ "GetDefaultValue", "class_u_setting_object___float.html#a2884640daa54120e33881a9dd51c4ee9", null ],
+    [ "GetMaxValue", "class_u_setting_object___float.html#a87b955a1078ff4ef358b798d4e9827ea", null ],
+    [ "GetMinValue", "class_u_setting_object___float.html#a35e840d466b707954a44211a21c8c4b8", null ],
+    [ "GetStepSize", "class_u_setting_object___float.html#aa10265bbd347916ac00f072dc95946e7", null ],
+    [ "GetValue", "class_u_setting_object___float.html#a9ddd6c42693263953044fed3b352c181", null ],
+    [ "SanitizeValue", "class_u_setting_object___float.html#a087d6b2b1f4aa778fe1b038524425fd0", null ],
+    [ "SetValue", "class_u_setting_object___float.html#acaae2d18786424fec23e3d96a92937da", null ],
+    [ "StaticClass", "class_u_setting_object___float.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "ValueToText", "class_u_setting_object___float.html#a2fa3bdf7882185c22bff93de1a944202", null ],
+    [ "AlwaysShowSign", "class_u_setting_object___float.html#a4ebcb6bc52e413a3c193a88704d1d3c4", null ],
+    [ "DecimalPlaces", "class_u_setting_object___float.html#aba1fd1f8ce2e0984ddaf6a7bc7c5e903", null ],
+    [ "DefaultValue", "class_u_setting_object___float.html#af7632dfdc3e440a3177ba8f65610395f", null ],
+    [ "m_AlwaysShowSign", "class_u_setting_object___float.html#abfa61cbf339f5199a4f78a50ba278f8c", null ],
+    [ "m_DefaultValue", "class_u_setting_object___float.html#aad3f11b8a07e3ba2f11c37c27dc4eaf9", null ],
+    [ "m_MaxValue", "class_u_setting_object___float.html#a8761965743d5a02fcd9893afa66a3292", null ],
+    [ "m_MinValue", "class_u_setting_object___float.html#a2746a50e15b74be6c163f3bd163717f9", null ],
+    [ "m_StepSize", "class_u_setting_object___float.html#a8d38fc5656628f02f554b300a12904a5", null ],
+    [ "MaxValue", "class_u_setting_object___float.html#adf595744158bc9a7bc3a9e6e052d391c", null ],
+    [ "MinValue", "class_u_setting_object___float.html#a0d54551b13787f7022b15362c9f12f8d", null ],
+    [ "StepSize", "class_u_setting_object___float.html#a24f15853e513aa499971d7fdb2e4f477", null ],
+    [ "Value", "class_u_setting_object___float.html#a6d47648daa4a2432850e1ecd4488911c", null ]
+];

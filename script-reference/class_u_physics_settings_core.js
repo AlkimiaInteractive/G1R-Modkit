@@ -1,0 +1,27 @@
+var class_u_physics_settings_core =
+[
+    [ "StaticClass", "class_u_physics_settings_core.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "bEnable2DPhysics", "class_u_physics_settings_core.html#a8aa99401ab627516228b46c60fdcc0c4", null ],
+    [ "bEnableEnhancedDeterminism", "class_u_physics_settings_core.html#a19d15db355d81fd3c2602570da5816ae", null ],
+    [ "bEnablePCM", "class_u_physics_settings_core.html#a0a7988e441e28f8e85c3d3104223d555", null ],
+    [ "bEnableShapeSharing", "class_u_physics_settings_core.html#ae3746e290f399919540f2e6438b30cd7", null ],
+    [ "bEnableStabilization", "class_u_physics_settings_core.html#ac7e09d176678bd4e411475f07987c063", null ],
+    [ "BounceThresholdVelocity", "class_u_physics_settings_core.html#aed57f348f3f9b1ec9b230ba77cce52ec", null ],
+    [ "bSimulateSkeletalMeshOnDedicatedServer", "class_u_physics_settings_core.html#ad1fe2fe1ccd76669a5803fafe318bced", null ],
+    [ "bWarnMissingLocks", "class_u_physics_settings_core.html#a4d9da76ae971904db683f8bce86a2aae", null ],
+    [ "ContactOffsetMultiplier", "class_u_physics_settings_core.html#a515a5c24569deae8671d5f201ed05b19", null ],
+    [ "DefaultFluidFriction", "class_u_physics_settings_core.html#a96f1d236e03438cc4e52dcdc83b0c8b6", null ],
+    [ "DefaultGravityZ", "class_u_physics_settings_core.html#a690bbf04cf3c091641fa2de6a01197c0", null ],
+    [ "DefaultShapeComplexity", "class_u_physics_settings_core.html#a1184cdc59286374c9301fdf2ba1dc6be", null ],
+    [ "DefaultTerminalVelocity", "class_u_physics_settings_core.html#a1768f124347debcfc51a703a91ea929b", null ],
+    [ "FrictionCombineMode", "class_u_physics_settings_core.html#a7ac8a0278d252c613203fe877734ad58", null ],
+    [ "MaxAngularVelocity", "class_u_physics_settings_core.html#aa75d97384ec373b38b600e05d2392ca8", null ],
+    [ "MaxContactOffset", "class_u_physics_settings_core.html#a76c87f24182f5fac6ce4a06194b24c87", null ],
+    [ "MaxDepenetrationVelocity", "class_u_physics_settings_core.html#a003ef02fbd320ef07bb9ba76e97f50a3", null ],
+    [ "MinContactOffset", "class_u_physics_settings_core.html#a812a29c6cd5078450366f840ad132aa0", null ],
+    [ "RagdollAggregateThreshold", "class_u_physics_settings_core.html#a9300707c75656ed3745dc6154b03087b", null ],
+    [ "RestitutionCombineMode", "class_u_physics_settings_core.html#a5a8e4f06ddadf7087484ff9df65ba45b", null ],
+    [ "SimulateScratchMemorySize", "class_u_physics_settings_core.html#a7478e051ae953b6fe3cf656bbc840a9b", null ],
+    [ "SolverOptions", "class_u_physics_settings_core.html#a8cc19f18a1548a90231c7e5daa87e6c1", null ],
+    [ "TriangleMeshTriangleMinAreaThreshold", "class_u_physics_settings_core.html#aca7bc44a32fcec352005cce52dc897e2", null ]
+];

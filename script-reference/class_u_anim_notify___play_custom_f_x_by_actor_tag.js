@@ -1,0 +1,25 @@
+var class_u_anim_notify___play_custom_f_x_by_actor_tag =
+[
+    [ "GetPerceptionSoundTag", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#a14963403cb858f50e367df427e58bc63", null ],
+    [ "SetPerceptionParameter", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#a939e16640faca03d3a6c44911be23a8a", null ],
+    [ "SetPerceptionSoundTag", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#aead0467563ecf531c98d73cbbbd65dc3", null ],
+    [ "StaticClass", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "bIsInstantEffect", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#a433cd9d335b911fcec02e1a53bfd1aed", null ],
+    [ "bIsLooping", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#a58384cf77c6380d5b9ec5cc4118fefde", null ],
+    [ "bIsUnderWaterEffect", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#a85bccba9ee394512a58e20cad263ac06", null ],
+    [ "EffectSpecs", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#a8c788de1f86b438cd75520ac6fe09205", null ],
+    [ "EffectTag", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#aa5bcbe0329d396910b51085b297aaeb3", null ],
+    [ "FMODEvent", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#aad53f464df78794a8ead3264626d62c8", null ],
+    [ "FMODEvent1", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#a7ecba1b725ee5c9bf7fd264a48b47ac3", null ],
+    [ "FMODEventMap", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#af60bd48b857fd5b1d47dc76f12f8084f", null ],
+    [ "FMODEventMapTagToTest", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#a59ed5c7c0abe4346d7cef5bc495c4e44", null ],
+    [ "FXDefinitionTemplate", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#a9ebc729f4abaed6157e3bd008b579c9b", null ],
+    [ "NiagaraAttachPoint", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#ab46128b7b11471177114b79870fe16fb", null ],
+    [ "NiagaraPositionOffset", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#ad8d4d193088d0804e4eb9481275cf97e", null ],
+    [ "NiagaraRotationOffset", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#a4c07abf8e45f17d4f3143a38f4541f0c", null ],
+    [ "NiagaraSystemPath", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#aeb762007f3a36ef752554529db9c3735", null ],
+    [ "PerceptionLength", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#aeb458452308c3b405a1a167d27f20c26", null ],
+    [ "PerceptionLoudness", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#a84a6c81be93388a82fef17ae057d623f", null ],
+    [ "PerceptionSoundTag", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#a0b56c5296f1c5afd484e4fc867e8ef3c", null ],
+    [ "TargetSockets", "class_u_anim_notify___play_custom_f_x_by_actor_tag.html#add796c0a12ff12f350094da5154f20b3", null ]
+];

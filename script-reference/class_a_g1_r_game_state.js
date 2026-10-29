@@ -1,0 +1,25 @@
+var class_a_g1_r_game_state =
+[
+    [ "CanDoorBeOpenedWorld", "class_a_g1_r_game_state.html#a4a669d31ee9225ad779454840bd4126e", null ],
+    [ "DeactivateAchievementProgress", "class_a_g1_r_game_state.html#a68060298e7f43492a3dbcac1e7c20afa", null ],
+    [ "GetAllPlayers", "class_a_g1_r_game_state.html#ad32a82b81a7afc412b7ee825e60b08dc", null ],
+    [ "GetFloatData", "class_a_g1_r_game_state.html#afb181898e12c65d4737532407402d03e", null ],
+    [ "GetTorchId", "class_a_g1_r_game_state.html#a066bac1e518c845550ed7dd993ba64ae", null ],
+    [ "GetWorldDefinition", "class_a_g1_r_game_state.html#a44426067612454fded0c9a235a673274", null ],
+    [ "GetWorldFloatData", "class_a_g1_r_game_state.html#a8d932f487680db3ab9d8647eaf3bbf90", null ],
+    [ "GlobalGetFloatData", "class_a_g1_r_game_state.html#aa2d16acc0076b7373aa7f8143b4640c1", null ],
+    [ "GlobalSaveFloatData", "class_a_g1_r_game_state.html#accec49f455231b67518ac0db91a8e8f9", null ],
+    [ "IsAchievementProgressEnabled", "class_a_g1_r_game_state.html#ae6f5eba23e40ccf53fe1b74b1ad03b6d", null ],
+    [ "IsDoorClosedWorld", "class_a_g1_r_game_state.html#a76237f4fb66c73d4ad3d73d17ecc4ad1", null ],
+    [ "IsDoorOpenWorld", "class_a_g1_r_game_state.html#aaaf4f65959850ab9cf75800fb154ff96", null ],
+    [ "SaveFloatData", "class_a_g1_r_game_state.html#a50f3fe590291935fd8bbf3f4414965da", null ],
+    [ "SaveWorldFloatData", "class_a_g1_r_game_state.html#ac05f60db5e5b42261bee3212e9ea8078", null ],
+    [ "Server_GiveXP", "class_a_g1_r_game_state.html#a63756cc1e864de72feca69f9e598842c", null ],
+    [ "Server_SaveFloatData", "class_a_g1_r_game_state.html#a5d6ed9c48a5285fd54224e7b13edc39d", null ],
+    [ "Server_SetDoorOpenState", "class_a_g1_r_game_state.html#ac53af74f16ebc98958941254ebeb7e44", null ],
+    [ "Spawn", "class_a_g1_r_game_state.html#a5c5524114c3919313daefb40984d46ba", null ],
+    [ "StaticClass", "class_a_g1_r_game_state.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "AllPlayers", "class_a_g1_r_game_state.html#a0a1716bdcbfcf2ab20d24a0fed6c1147", null ],
+    [ "m_TorchIds", "class_a_g1_r_game_state.html#aa755dc2a7b665f028bbc1b8e5b4e5748", null ],
+    [ "TorchId", "class_a_g1_r_game_state.html#a78df702ed63578de5dcf614532e28577", null ]
+];

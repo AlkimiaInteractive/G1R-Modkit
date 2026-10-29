@@ -1,0 +1,7 @@
+var class_u_material_expression_parameter =
+[
+    [ "StaticClass", "class_u_material_expression_parameter.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "Group", "class_u_material_expression_parameter.html#a43d240e8a031c6b44ce2141bb4a6d690", null ],
+    [ "ParameterName", "class_u_material_expression_parameter.html#aeebead736acaa2ec7e56cb621cd6f67e", null ],
+    [ "SortPriority", "class_u_material_expression_parameter.html#a69347147feb75383460dba2e1d8bf6de", null ]
+];

@@ -1,0 +1,28 @@
+var class_u_turn_on_spot_config =
+[
+    [ "StaticClass", "class_u_turn_on_spot_config.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "m_AimYawRateLimit", "class_u_turn_on_spot_config.html#adf69779b6eb26131dfcc6148cdcc99c7", null ],
+    [ "m_AimYawRateMaxRange", "class_u_turn_on_spot_config.html#a2988fd0618ed0af8f5b117a1f4e4bee5", null ],
+    [ "m_AimYawRateMinRange", "class_u_turn_on_spot_config.html#a2bdf176174727fcafca978cffb6c26f3", null ],
+    [ "m_ExplicitTurnInPlaceAngleTolerance", "class_u_turn_on_spot_config.html#af6c7ff02d72687cc073235b8d25eb21e", null ],
+    [ "m_MaxAngleDelay", "class_u_turn_on_spot_config.html#a42ec092471b766ac2ce9b58a8d32e676", null ],
+    [ "m_MaxPlayRate", "class_u_turn_on_spot_config.html#a2de790d7bcc99667a9534bdf2db5ecb0", null ],
+    [ "m_MinAngleDelay", "class_u_turn_on_spot_config.html#a6cfbb77022b84d2e7196a598818bfeae", null ],
+    [ "m_MinPlayRate", "class_u_turn_on_spot_config.html#a4b8bfc0800630d31058c9a7972fda726", null ],
+    [ "m_RotateMaxThreshold", "class_u_turn_on_spot_config.html#af1aecb28cd9ee7f69ca2db387b0a4433", null ],
+    [ "m_RotateMinThreshold", "class_u_turn_on_spot_config.html#a9e581236f69456ee7598cc23f330a56b", null ],
+    [ "m_TIPCL180", "class_u_turn_on_spot_config.html#a9b38e1598e6fef569cde2187f7068b4b", null ],
+    [ "m_TIPCL30", "class_u_turn_on_spot_config.html#addf9cbc066e756183cde93b577588aef", null ],
+    [ "m_TIPCL90", "class_u_turn_on_spot_config.html#a0b86425a821d7579910b88f67860f201", null ],
+    [ "m_TIPCR180", "class_u_turn_on_spot_config.html#ab38e6861eea3b7d9dc3bdc125fb7a8c6", null ],
+    [ "m_TIPCR30", "class_u_turn_on_spot_config.html#ad8e669a865c181cfa7b0fd59cb5042e4", null ],
+    [ "m_TIPCR90", "class_u_turn_on_spot_config.html#a7d2c752027f646affbcc08cdb456e06a", null ],
+    [ "m_TIPL180", "class_u_turn_on_spot_config.html#ad2b3c11c745295e8a70f2683376e4910", null ],
+    [ "m_TIPL30", "class_u_turn_on_spot_config.html#aa58b6cc6f48fca78f4f4cfb33d3ebc28", null ],
+    [ "m_TIPL90", "class_u_turn_on_spot_config.html#a114676fddd143b864fc6b19bbd45f9c8", null ],
+    [ "m_TIPR180", "class_u_turn_on_spot_config.html#ab40fed1431c496846765f837aea163a8", null ],
+    [ "m_TIPR30", "class_u_turn_on_spot_config.html#a44429a755723d9d7539af8d8aec4271d", null ],
+    [ "m_TIPR90", "class_u_turn_on_spot_config.html#a23456815d41764f5b0a6b6c3e5327f0e", null ],
+    [ "m_Turn180Threshold", "class_u_turn_on_spot_config.html#a8e5b1fe1ed2561589b3bebb9103a2c61", null ],
+    [ "m_TurnCheckMinAngle", "class_u_turn_on_spot_config.html#acc679c9421b32f70f3c910c3c8ba8eed", null ]
+];

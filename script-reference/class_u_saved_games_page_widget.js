@@ -1,0 +1,27 @@
+var class_u_saved_games_page_widget =
+[
+    [ "CheckQuickSave", "class_u_saved_games_page_widget.html#ae7556fefc44d694483cf9e120da04ac4", null ],
+    [ "IsProfileInPermaDeathMode", "class_u_saved_games_page_widget.html#a861f9bcea09f2f50cad3889eaaf2642f", null ],
+    [ "NewSaveSlot", "class_u_saved_games_page_widget.html#a7a1502e378ad012da2c9d9ae70af13a8", null ],
+    [ "OnInputTypeChanged", "class_u_saved_games_page_widget.html#ab2bb6cea6b1477efc6c04a6dd8ad372d", null ],
+    [ "OnNewSaveSlotClickedBP", "class_u_saved_games_page_widget.html#a35dc1ea20b6c9962c7ad2ef76ab05a54", null ],
+    [ "ShowTextInputBP", "class_u_saved_games_page_widget.html#aca5f55bd987741ae4109a0d009ac9488", null ],
+    [ "StartDeletingSave", "class_u_saved_games_page_widget.html#a88376adc55f0d9bc92bdd8984e4ec4ae", null ],
+    [ "StartLoadingSave", "class_u_saved_games_page_widget.html#a18c2310419011a8082ad8933b5520659", null ],
+    [ "StartSavingSave", "class_u_saved_games_page_widget.html#a43184e567305eeb44eca7e250e743275", null ],
+    [ "StaticClass", "class_u_saved_games_page_widget.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "UpdateInfo", "class_u_saved_games_page_widget.html#a6ff5685988d2f1b4077133c56c8d88ea", null ],
+    [ "UpdateInfoBP", "class_u_saved_games_page_widget.html#aac68a0ddb81fd9cb455a6814eb3d97f0", null ],
+    [ "WhenSlotSaved", "class_u_saved_games_page_widget.html#a31b9f63d2ae1f57ff9e22615cc5f9c6f", null ],
+    [ "m_ArraySlotInfo", "class_u_saved_games_page_widget.html#a608326a73c5ff089542c3b70f9199346", null ],
+    [ "m_CurrentInputType", "class_u_saved_games_page_widget.html#ab47eccbdc330d396d3f9a848749902fe", null ],
+    [ "m_IsModePermadeath", "class_u_saved_games_page_widget.html#a2a5488520be59ef9b9fd3e69bd19df41", null ],
+    [ "m_IsPlatformPC", "class_u_saved_games_page_widget.html#a1400b54889562d0cf492708062322537", null ],
+    [ "m_NumAutoSaveSlots", "class_u_saved_games_page_widget.html#a26ce47c6fb3790a115a0739995988845", null ],
+    [ "m_NumManualSaveSlots", "class_u_saved_games_page_widget.html#a85e3f90a123008f001ce864aecffda99", null ],
+    [ "m_NumQuickSaveSlots", "class_u_saved_games_page_widget.html#a2ef2fbce601c352e74652363f75dcbff", null ],
+    [ "m_ProfileInfo", "class_u_saved_games_page_widget.html#a06451ea75793631d036c454e6e8c030e", null ],
+    [ "m_SelectedSlot", "class_u_saved_games_page_widget.html#ab506f97d22ab238578606247ff243ae4", null ],
+    [ "MenuState", "class_u_saved_games_page_widget.html#a979e1c33cf4c0a1f2d11815a45df2ca8", null ],
+    [ "TileView_Saves", "class_u_saved_games_page_widget.html#a0521e1e21403217b2a5af154ae8b61ba", null ]
+];

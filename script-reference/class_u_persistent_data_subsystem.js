@@ -1,0 +1,26 @@
+var class_u_persistent_data_subsystem =
+[
+    [ "CheckIsPermaDeath", "class_u_persistent_data_subsystem.html#a8cd214f345564aab30f7e8ab85be4003", null ],
+    [ "Get", "class_u_persistent_data_subsystem.html#a27522343dcbb229c0aa4928b2c85a341", null ],
+    [ "GetCurrentProfile", "class_u_persistent_data_subsystem.html#acfd29b683c89002f09cacdc7539f7691", null ],
+    [ "GetCurrentProfileId", "class_u_persistent_data_subsystem.html#a39fd3cbf8bf427b76b98cce16b6c690d", null ],
+    [ "GetMostRecentPlayTime", "class_u_persistent_data_subsystem.html#a419915eb7dbead7d897c59e79ce8a355", null ],
+    [ "GetProfiles", "class_u_persistent_data_subsystem.html#ae1674b08df8d996eda04a0f9edf0c77c", null ],
+    [ "GetSavePublicName", "class_u_persistent_data_subsystem.html#af50e3472c6bc411b9d451475c1087025", null ],
+    [ "HasProfile", "class_u_persistent_data_subsystem.html#a026a1a5b30d42046ee8843994562b4aa", null ],
+    [ "LoadOrCreateDataGame", "class_u_persistent_data_subsystem.html#ab8bb3877b99ac7f6493fbb16051426e2", null ],
+    [ "LoadOrCreateSettings", "class_u_persistent_data_subsystem.html#ac72a81cc1b5f8f9201e01564560e1a54", null ],
+    [ "StaticClass", "class_u_persistent_data_subsystem.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "bAllowSaveLoad", "class_u_persistent_data_subsystem.html#ae53a5baa2c6961638d9c584e6c28927b", null ],
+    [ "CurrentProfile", "class_u_persistent_data_subsystem.html#a71571174587c8c20dcc0ad548b1f4a27", null ],
+    [ "CurrentProfileId", "class_u_persistent_data_subsystem.html#a7b53000d5e9d4d705dba701b17e4baa1", null ],
+    [ "m_autosavePermaDeathTimer", "class_u_persistent_data_subsystem.html#a4eea7b55d1f6f3a7e5b91e6530876d61", null ],
+    [ "m_MaxProfileNumber", "class_u_persistent_data_subsystem.html#a4e9f3c0017a88622067bfcab32f31e73", null ],
+    [ "m_OnCannotSave", "class_u_persistent_data_subsystem.html#acbc1820144362b3da874e1a71014f200", null ],
+    [ "m_OnGameSaved", "class_u_persistent_data_subsystem.html#ab970f95c40604e1a86324584cafceb1f", null ],
+    [ "m_SaveScreenshotEnabled", "class_u_persistent_data_subsystem.html#ad375d00f0d91af6664d030f1c0f5bc09", null ],
+    [ "m_ScreenshotResolutionX", "class_u_persistent_data_subsystem.html#a40f4873eaa184c0da5de098ef5b22a92", null ],
+    [ "m_ScreenshotResolutionY", "class_u_persistent_data_subsystem.html#a9a747178dd3fe19194116f82d70ae10a", null ],
+    [ "m_ScreenshotTimeout", "class_u_persistent_data_subsystem.html#a1826763555a88863607ab27d9b12e1e4", null ],
+    [ "MostRecentPlayTime", "class_u_persistent_data_subsystem.html#a50faa28614851be74244a90c21020d5a", null ]
+];

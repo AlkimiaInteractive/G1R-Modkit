@@ -1,0 +1,28 @@
+var struct_f_recast_nav_mesh_generation_properties =
+[
+    [ "opAssign", "struct_f_recast_nav_mesh_generation_properties.html#a0d7317372dbd82f166853810b3330a54", null ],
+    [ "SetbFilterLowSpanFromTileCache", "struct_f_recast_nav_mesh_generation_properties.html#a5966b7468ebaf6b6a10f670021ee1dd9", null ],
+    [ "SetbFilterLowSpanSequences", "struct_f_recast_nav_mesh_generation_properties.html#a09d87d97b38f79bf9011ecbb0a2a7428", null ],
+    [ "SetbFixedTilePoolSize", "struct_f_recast_nav_mesh_generation_properties.html#a7974905d00042723068170d244e1bc25", null ],
+    [ "SetbIsWorldPartitioned", "struct_f_recast_nav_mesh_generation_properties.html#ac735d75f368c608c5b5a61170d2affc0", null ],
+    [ "SetbMarkLowHeightAreas", "struct_f_recast_nav_mesh_generation_properties.html#a28ff20794f53426dbaf05c30e7c3242c", null ],
+    [ "SetbPerformVoxelFiltering", "struct_f_recast_nav_mesh_generation_properties.html#ae893f78128d76c349ed5a36445f559c2", null ],
+    [ "SetbSortNavigationAreasByCost", "struct_f_recast_nav_mesh_generation_properties.html#ac05e3f8c1af1452a876a2d3b872f8e02", null ],
+    [ "SetbUseExtraTopCellWhenMarkingAreas", "struct_f_recast_nav_mesh_generation_properties.html#a5b1cb9506f53ffc931e8605fe2ac917d", null ],
+    [ "AgentHeight", "struct_f_recast_nav_mesh_generation_properties.html#a75671c3f6a58fa685ba2d6b9ec01aa3a", null ],
+    [ "AgentMaxSlope", "struct_f_recast_nav_mesh_generation_properties.html#a0e68ce95046b47f90acc1c98555e7b2b", null ],
+    [ "AgentMaxStepHeight", "struct_f_recast_nav_mesh_generation_properties.html#a4934bd6ac771df228b513e1982f038f4", null ],
+    [ "AgentRadius", "struct_f_recast_nav_mesh_generation_properties.html#a24ebbfb3cdf0677401b3c72e382d802c", null ],
+    [ "CellHeight", "struct_f_recast_nav_mesh_generation_properties.html#a9f59127505dfc2c15f030cf9573801b2", null ],
+    [ "CellSize", "struct_f_recast_nav_mesh_generation_properties.html#a90593ddbccfb830148f2ab905c52737d", null ],
+    [ "LayerChunkSplits", "struct_f_recast_nav_mesh_generation_properties.html#a9110f16fee17f9622b1bfcbe507bc892", null ],
+    [ "LayerPartitioning", "struct_f_recast_nav_mesh_generation_properties.html#a21ccfd796cbc4f2f709efa82d84971ce", null ],
+    [ "MaxSimplificationError", "struct_f_recast_nav_mesh_generation_properties.html#a82f26ef3ae7f96f151c1f48f78abba33", null ],
+    [ "MergeRegionSize", "struct_f_recast_nav_mesh_generation_properties.html#a8d46df1f656823f58d0b870b19f74926", null ],
+    [ "MinRegionArea", "struct_f_recast_nav_mesh_generation_properties.html#ac4c23f50f7b45d977897c51239ab9f59", null ],
+    [ "RegionChunkSplits", "struct_f_recast_nav_mesh_generation_properties.html#a6bdcb9b17e39e6a87eb208bdda9f9b33", null ],
+    [ "RegionPartitioning", "struct_f_recast_nav_mesh_generation_properties.html#ad622df45f83e0efc98beafc053d7c626", null ],
+    [ "TileNumberHardLimit", "struct_f_recast_nav_mesh_generation_properties.html#a2fbda0602cc6b66f908b986e181d8528", null ],
+    [ "TilePoolSize", "struct_f_recast_nav_mesh_generation_properties.html#a7a231f5a8b260c5d0a7597ae43bfc711", null ],
+    [ "TileSizeUU", "struct_f_recast_nav_mesh_generation_properties.html#a264ae1b5415d5b8093ccb9ffedd66a8b", null ]
+];

@@ -1,0 +1,28 @@
+var class_u_targeting_selection_task___trace =
+[
+    [ "GetAdditionalActorsToIgnore", "class_u_targeting_selection_task___trace.html#a15f5861d6b50fb24fffb42e6fb79db25", null ],
+    [ "GetSourceLocation", "class_u_targeting_selection_task___trace.html#a81047613fcce5b1ffab845e1f8fb52fb", null ],
+    [ "GetSourceOffset", "class_u_targeting_selection_task___trace.html#a52006899ad1bbc3c3b67c68c0705a3ed", null ],
+    [ "GetSweptTraceBoxHalfExtents", "class_u_targeting_selection_task___trace.html#a1a084d8913199a18d8e882e57f5f7c95", null ],
+    [ "GetSweptTraceCapsuleHalfHeight", "class_u_targeting_selection_task___trace.html#a34494f97a7cbe238831625089b1c2316", null ],
+    [ "GetSweptTraceRadius", "class_u_targeting_selection_task___trace.html#aa507d9ee28f4e10261282cdf2de76146", null ],
+    [ "GetSweptTraceRotation", "class_u_targeting_selection_task___trace.html#a00739b41f046e9d58dec202b3e52752c", null ],
+    [ "GetTraceDirection", "class_u_targeting_selection_task___trace.html#ac8bdc3b8208dfc42e2eb16bb06bf6355", null ],
+    [ "GetTraceLength", "class_u_targeting_selection_task___trace.html#ac0e54187a5aa3cc45edd0ddb375007c2", null ],
+    [ "SetbComplexTrace", "class_u_targeting_selection_task___trace.html#abc1d6693215e0ef681ac687189727d5b", null ],
+    [ "SetbIgnoreInstigatorActor", "class_u_targeting_selection_task___trace.html#a12780990be5393f51d9391096b74fa46", null ],
+    [ "SetbIgnoreSourceActor", "class_u_targeting_selection_task___trace.html#a8343369e3af4d4b822e16dbbe5a4a893", null ],
+    [ "StaticClass", "class_u_targeting_selection_task___trace.html#a263bcdf07c6d9f76c5ac5348962e008a", null ],
+    [ "CollisionProfileName", "class_u_targeting_selection_task___trace.html#afd7618ae18f87dcc3b00725a2d724912", null ],
+    [ "DefaultSourceOffset", "class_u_targeting_selection_task___trace.html#a7bafa4ea302844debe7b70d84dfb7c96", null ],
+    [ "DefaultSweptTraceBoxHalfExtentX", "class_u_targeting_selection_task___trace.html#ab7327313acab5b99d7b9ab85db1c7b3a", null ],
+    [ "DefaultSweptTraceBoxHalfExtentY", "class_u_targeting_selection_task___trace.html#aba87c606caf4cb6b2de0f289e7407043", null ],
+    [ "DefaultSweptTraceBoxHalfExtentZ", "class_u_targeting_selection_task___trace.html#af9bee57bceb3f370f0af938111005734", null ],
+    [ "DefaultSweptTraceCapsuleHalfHeight", "class_u_targeting_selection_task___trace.html#ab3ac5777a8fc771176b69a790bcc08e2", null ],
+    [ "DefaultSweptTraceRadius", "class_u_targeting_selection_task___trace.html#a3c70c7d8649c934ee7386e91bf875820", null ],
+    [ "DefaultSweptTraceRotation", "class_u_targeting_selection_task___trace.html#a205a067a29bd9f4bfaebbd010b4a80b2", null ],
+    [ "DefaultTraceLength", "class_u_targeting_selection_task___trace.html#a0b77a0c3e30975a7db53dfbfb219e521", null ],
+    [ "ExplicitTraceDirection", "class_u_targeting_selection_task___trace.html#ad74ceaa7d18d17b20649b71c27c69a41", null ],
+    [ "TraceChannel", "class_u_targeting_selection_task___trace.html#a5fe304bf151c1b46dc6047a24b386d25", null ],
+    [ "TraceType", "class_u_targeting_selection_task___trace.html#a90e2806ed30c74da97cb8d6a93c8f676", null ]
+];
